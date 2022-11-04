@@ -1,5 +1,5 @@
 # IBM-Project-11903-1659355371
-
+<img src="C:\Users\Bharat Rajendran\Downloads">
 <h2 align="center">Fertilizers Recommendation System For Disease Prediction <a href="https://github.com/IBM-EPBL/IBM-Project-17508-1659672731" target="_blank"><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.gif" alt="🍀" width="32" height="32">
